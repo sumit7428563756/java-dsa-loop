@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
-public class Multplication {
+
+// 2 -> print multiplication table of any number n up to 10 times.
+
+public class Multiplication {
     public static void main(String[] args){
         Scanner N = new Scanner(System.in);
         int n = N.nextInt();
@@ -12,3 +15,5 @@ public class Multplication {
         }
     }
 }
+
+

@@ -8,9 +8,9 @@ public class Main {
        int n = N.nextInt();
        int  sum = 0;
       for (int i = 1; i <= n; i++){
-          sum = sum += i;
+          sum += i;
       }
-      System.out.println(sum);
+      System.out.println("Sum of "+ n +" is :- " +sum);
     }
 }
 

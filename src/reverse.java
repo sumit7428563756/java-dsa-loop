@@ -10,3 +10,6 @@ public class reverse {
         }
     }
 }
+
+//Time Complexity = O(n)
+//space Complexity = O(1)

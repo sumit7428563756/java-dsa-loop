@@ -18,6 +18,9 @@ public class Main {
     }
 }
 
+//time complexity = O(n)
+//space complexity = O(1)
+
 // Flow ->
 // when user enter n = 5, then i start with 1 and runs till n numbers with adding of next i then
 // sum which have value 0 add itself i value then loop end and restart again and it runs till when loop reach n numbers
